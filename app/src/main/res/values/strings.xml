@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HorseRacing</string>
+    <string name="run_a_race">Начать гонку</string>
+    <string name="pause">Приостановить</string>
+    <string name="start">Старт</string>
+    <string name="restart">Рестарт</string>
+    <string name="progress_percentage">%1$d%%</string>
+    <string name="horse1">Пегас</string>
+    <string name="horse2">Слэвин</string>
 </resources>
